@@ -88,7 +88,7 @@
   padding-top: 0;
   padding-bottom: 0;
   box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.03);
-  transition: all 1s ease;
+  transition: background 1s ease;
 }
 
 .sticky .section-hero {
